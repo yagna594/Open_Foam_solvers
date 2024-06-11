@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "FTL_Lesson04.C": "cpp",
+        "FTL_Lesson05.C": "cpp",
+        "FTL_Lesson01.C": "cpp",
+        "FTL_Lesson10.C": "cpp",
+        "ftlSprayFoam.C": "cpp",
+        "ftlpisoBudgetWindowFoam.C": "cpp",
+        "pimpleFoam.C": "cpp",
+        "ftlpimpleFoam.C": "cpp",
+        "Newmark.C": "cpp",
+        "NewmarkBeta.C": "cpp",
+        "ftlLogProfileFvPatchVectorField.C": "cpp",
+        "FTL_Lesson02.C": "cpp",
+        "derivedClass.C": "cpp",
+        "FTL_Lesson06.C": "cpp",
+        "ftlClass.C": "cpp"
+    }
+}

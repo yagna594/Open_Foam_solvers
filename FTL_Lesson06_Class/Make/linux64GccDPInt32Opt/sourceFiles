@@ -1,0 +1,6 @@
+SOURCE = \
+ftlClass.C \
+derivedClass.C \
+FTL_Lesson06.C \
+
+# sources

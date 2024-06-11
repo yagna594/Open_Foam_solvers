@@ -1,0 +1,4 @@
+SOURCE = \
+doubleVelocityFvPatchVectorField.C \
+
+# sources
